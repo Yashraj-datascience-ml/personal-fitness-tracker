@@ -35,7 +35,7 @@ This project helps in understanding:
 
 ## 📸 Project Output
 
-![Project Output](Personal Fitness Tracker.png)
+![Project Output](Personal_Fitness_Tracker.png)
 
 ## 👨‍💻 Author
 **Yashraj Sharma**
